@@ -1,0 +1,17 @@
+Package: StatComp22058
+Type: Package
+Title: KCP(Kernel Change Point) permutation test
+Version: 1.0
+Date: 2022-12-07
+Author: 22058
+Maintainer: 22058 <gg05070514@163.com>
+Description: Several R and Rcpp function are included in this package to implement the KCP permutation test. 
+License: GPL (>= 2)
+Imports: Rcpp, Rsolnp, stats
+Suggests: bootstrap, DAAG, microbenchmark, knitr, rmarkdown, MASS, boot, xtable
+LinkingTo: Rcpp
+RoxygenNote: 7.2.2
+Encoding: UTF-8
+VignetteBuilder: knitr
+URL: https://github.com/gooustc/StatComp22058
+BugReports: https://github.com/gooustc/StatComp22058/issues
